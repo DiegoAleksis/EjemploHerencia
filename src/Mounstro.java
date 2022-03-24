@@ -48,10 +48,10 @@ private ArrayList<String> skills;
         }
 
 
-         public void espantar (){
+         public void espantar(){
              System.out.println("¡booooo!");
          }
-        public void trabajar (){
+        public void trabajar(){
             System.out.println("Estoy cansado de trabajar");
         }
 
